@@ -1,4 +1,4 @@
-# Flask DevOps Lab
+# Flask DevOps Labb
 
 A simple Flask application demonstrating basic DevOps practices, including virtual environments, dependency management, Git version control, and REST API endpoints.
 
